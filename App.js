@@ -35,7 +35,9 @@ const styles = StyleSheet.create({
   sectionTile: {
     fontSize:34,
     fontWeight:'bold',
-    marginBottom:20
 
   },
+  items:{
+    marginTop:30,
+  }
 });
